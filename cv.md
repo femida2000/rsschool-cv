@@ -21,7 +21,8 @@ I am a responsible specialist in IT industry (3 years as a geoinfromation engine
 
 ## Code:
 
-```<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html lang="ru">
   <head>
    <!--meta data -->
@@ -51,7 +52,7 @@ I am a responsible specialist in IT industry (3 years as a geoinfromation engine
         Бледная поганка, мухомор, ложный опенок, ну, и другие там поганки.Память, навскидку, выдает только несколько названий ядовитых грибов, хотя их в природе не так уж и мало – всего насчитывается до 200 видов. При этом к наиболее опасным относится около 20-25 видов
       </p>
       <img src="гриб+шампиньон+пикса.jpg"
-      alt="Грибочки"
+      alt="Шампиньон и пикса"
       width="300"
       title="Всплывающее окошко для грибочков">
       <table>
