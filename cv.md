@@ -162,4 +162,4 @@ Specialist in Environmental management, GPA 4.8
 
 ## Fluent English
 
-> Moscow is the capital of Russian Federation
+> Moscow is the capital of the Russian Federation
